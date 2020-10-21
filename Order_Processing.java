@@ -1,6 +1,6 @@
 package Day1;
 
-public class OrderProcessing {
+public class Order_Processing {
 
 	/*
 	 * int quantity;
