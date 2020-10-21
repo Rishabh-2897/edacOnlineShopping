@@ -2,7 +2,7 @@ package Day1;
 
 import java.util.Scanner;
 
-public class Product {
+public class Product_List {
 
 	    /*
 	     * String product name;
